@@ -8,3 +8,6 @@ yarn.lock
 *.tsbuildinfo
 *.iml
 coverage
+.metals
+project/project
+**/target
